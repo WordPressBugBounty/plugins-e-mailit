@@ -1,0 +1,56 @@
+#emailit_options .switch {
+  position: relative;
+  display: inline-block;
+  width: 28px;
+  height: 16px;
+  margin:0;
+}
+
+#emailit_options .switch input {display:none;}
+
+#emailit_options .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #bec2c9;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+#emailit_options .slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 1px;
+  bottom: 1px;
+  background-color: white;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+#emailit_options input:checked + .slider {
+  background-color: #4080ff;
+}
+
+#emailit_options input:focus + .slider {
+  box-shadow: 0 0 1px #4080ff;
+}
+
+#emailit_options input:checked + .slider:before {
+  -webkit-transform: translateX(12px);
+  -ms-transform: translateX(12px);
+  transform: translateX(12px);
+}
+
+/* Rounded sliders */
+#emailit_options .slider.round {
+  border-radius: 34px;
+}
+
+#emailit_options .slider.round:before {
+  border-radius: 50%;
+}	
