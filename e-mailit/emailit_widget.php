@@ -1,6 +1,6 @@
 <?php
 
-/*  Copyright YEAR  E-MAILiT Technologies  (email :  support@e-mailit.com)
+/*  Copyright 2024 WeShare (email :  support@weshareapp.io)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
@@ -18,16 +18,16 @@
 
 
 /*
- * Plugin Name: WordPress Share Buttons Plugin – E-MAILiT
- * Plugin URI: https://www.e-mailit.com
- * Description: Take back your privacy and earn money by sharing your site content.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
- * Author: E-MAILiT Technologies
- * Text Domain: e-mailit
- * Version: 12.0.3
- * Author URI: https://www.e-mailit.com
+ * Plugin Name: WeShare Buttons
+ * Plugin URI: https://www.weshareapp.io
+ * Description: WeShare is here! Formerly E-MAILiT, WeShare offers the same reliable sharing buttons with enhanced features.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
+ * Author: WeShare
+ * Text Domain: weshareapp
+ * Version: 13.0.0
+ * Author URI: https://www.weshareapp.io
  */
 defined('ABSPATH') or die('No direct access permitted');
-define('EMAILIT_VERSION', '12.0.3');
+define('EMAILIT_VERSION', '13.0.0');
 
 add_action('admin_init', 'emailit_admin_init');
 add_action('widgets_init', 'emailit_widget_init');
@@ -261,8 +261,6 @@ function emailit_display_button($content) {
     else
         $display = false;
 
-    global $wp_query;
-    $post = $wp_query->post;
     if(isset($post)){
         $custom_fields = get_post_custom($post->ID);
         if (isset($custom_fields['emailit_exclude']) && $custom_fields['emailit_exclude'][0] == 'true')
@@ -356,8 +354,6 @@ function emailit_addFloatingBar() {
         $emailit_options['toolbar_type'] .= " " . $emailit_options['floating_bar'];
     }
 
-    global $wp_query;
-    $post = $wp_query->post;    
     if(isset($post)){
     $custom_fields = get_post_custom($post->ID);
         if ((is_page() || is_single()) && isset($custom_fields['emailit_exclude']) && $custom_fields['emailit_exclude'][0] == 'true')
