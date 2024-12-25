@@ -1,5 +1,5 @@
 ==== WeShare Buttons ====
-Contributors: weshare
+Contributors: e-mailit
 Tags: share, social, share buttons, share icons, social media
 License: GPLv2 or later
 Requires at least: 4.5
@@ -7,30 +7,38 @@ Tested up to: 6.7
 Requires PHP: 5.6
 Stable tag: 13.0.0
 
-Share buttons for WordPress including the WeShare button, Facebook, Threads, Pinterest, LinkedIn, Reddit, Tumblr, Zalo, WhatsApp, many more, and follow icons too.
+Turn every share into a new revenue stream.
 
 == Description ==
 
-WeShare is here! Formerly E-MAILiT, WeShare offers the same reliable sharing buttons with enhanced features.
+Boost traffic and engagement with WeShare buttons for WordPress, including Facebook, X, WeChat, Threads, Pinterest, LinkedIn, Reddit, Tumblr, Zalo, WhatsApp, and many more. Enable sharing to a wide array of social media sites and apps, plus follow icons for top services, to help users share your posts and pages effortlessly.
 
-== Our Commitment to Publishers ==
+== History ==
 
-* **Introducing WeShare – The Next Generation of Social Sharing**
+In 2008, Nikitas Georgopoulos envisioned a world where sharing content online could be as intuitive and engaging as the content itself. Starting as a weekend side project called E-MAILiT, Nikitas and his small team built a sharing and customization platform unlike any other, one that would allow publishers and users alike to tailor and enrich their online experiences. This simple project soon became a labor of love, evolving slowly but steadily. Back then, with limited resources and a lean team, growth was organic—relying on passion, dedication, and a long-term vision rather than immediate investor funding. Over time, E-MAILiT gained loyal users and made a name for itself, quietly becoming a trusted choice for thousands of websites across 194 countries. Yet, unlike many startups chasing quick expansion through investor backing, Nikitas and his team believed in a path driven by gradual innovation and authenticity. Each decision was purposeful, aimed at delivering value and enhancing the user experience. This careful, deliberate approach allowed E-MAILiT to amass impressive reach: over 6 billion views and 3 billion users, with a domain rating of 68 and 35,000 backlinks—99% of them dofollow.
+
+== Introducing WeShare – The Next Generation of Social Sharing ==
+
 Formerly known as E-MAILiT, WeShare brings you fast, private, and personalized social sharing. With our one-click sharing button, your audience can effortlessly share your content across 84 social networking platforms, all while feeling secure. WeShare is fully committed to privacy—we never sell or share your data. Plus, we make it easy for publishers to tailor sharing buttons to fit their brand, creating a cohesive and responsive sharing experience that boosts engagement and growth.
 
-* **A Trusted Platform with a Global Reach**
+== A Trusted Platform with a Global Reach ==
+
 What began as a weekend side project has grown into a trusted platform used by thousands of websites across 194 countries. With over 6 billion views and 3 billion users to date, WeShare has become a reliable choice for publishers worldwide. Backed by a domain rating of 68 and 35,000 backlinks—99% of them dofollow—WeShare is well-positioned to expand its impact and help publishers build brand loyalty across the globe.
 
-* **How WeShare Generates Revenue – Keeping It Free for Publishers**
+== How WeShare Generates Revenue – Keeping It Free for Publishers ==
+
 WeShare is entirely free for publishers. Our revenue comes from non-intrusive, post-share advertising options, like Thank-You Page ads and sponsored content. These ads help keep our services free while offering growth opportunities for your business. We’re different from typical data-driven ad models; our ads fit naturally into the user experience and don’t rely on tracking, meaning your users can engage with your content uninterrupted and privately.
 
-* **Unlock New Revenue Streams with WeShare’s Innovative Features**
+== Unlock New Revenue Streams with WeShare’s Innovative Features ==
+
 With WeShare, every share becomes an opportunity for growth. Our Universal Bypass function lets you add revenue-generating options to existing share buttons without changing your setup. After users share, they’re directed to a Thank-You Page featuring ads, such as engaging 300x250 banners. You can also enable Rewarded Shares, where users earn redeemable points or perks sponsored by advertisers, turning each share into a rewarding experience. Plus, you can share exclusive, ad-supported content to further enhance engagement and revenue.
 
-* **Seamlessly Track and Personalize Your Sharing Experience**
+== Seamlessly Track and Personalize Your Sharing Experience ==
+
 Customize your sharing buttons to fit your brand’s aesthetics and create a fully responsive social sharing layout. Track the success of your shares with WeShare’s Google Analytics integration, which consolidates all sharing metrics in one place. And with after-share Follow Buttons, you can keep your audience connected and engaged, even after they share.
 
-* **Privacy First – WeShare Protects Your Data**
+== Privacy First – WeShare Protects Your Data ==
+
 At WeShare, privacy is at our core. We’re committed to helping publishers grow without compromising on user privacy. We never sell or share user data—because WeShare Values Your Privacy.
 
 = WordPress Optimized =

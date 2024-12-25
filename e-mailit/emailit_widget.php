@@ -21,8 +21,8 @@
  * Plugin Name: WeShare Buttons
  * Plugin URI: https://www.weshareapp.io
  * Description: WeShare is here! Formerly E-MAILiT, WeShare offers the same reliable sharing buttons with enhanced features.  [<a href="options-general.php?page=emailit_admin_panel.php">Settings</a>]
- * Author: WeShare
- * Text Domain: weshareapp
+ * Author: WeShare (formerly E-MAILiT)
+ * Text Domain: WeShare (formerly E-MAILiT)
  * Version: 13.0.0
  * Author URI: https://www.weshareapp.io
  */
